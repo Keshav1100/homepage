@@ -19,8 +19,8 @@ function Hero() {
             btn={"Book a Demo"}
             classname="bg-gradient-to-r from-[#A356E0] to-[#F83167] py-3 w-1/2"
           />
-          <div className="bg-gradient-to-r from-[#A356E0] to-[#F83167] p-1 rounded-md text-[#A356E0] w-1/2">
-            <Button btn={"Watch Demo"} classname="bg-white p-3 text-[#A356E0] w-full border-none" border={true}/>
+          <div className="bg-gradient-to-r from-[#A356E0] to-[#F83167] p-1 rounded-md text-[#7514C2] w-1/2">
+            <Button btn={"Watch Demo"} classname="bg-white p-3 text-[#7514C2] w-full border-none" border={true}/>
           </div>
         </div>
       </div>
