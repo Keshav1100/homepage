@@ -7,6 +7,7 @@ import Hero from "./components/Hero";
 import Explore from "./components/Explore";
 import Features from "./components/Features";
 import Review from "./components/Review";
+import Faq from "./components/Faq";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Explore />
       <Features />
       <Review />
+      <Faq/>
     </main>
   );
 }
